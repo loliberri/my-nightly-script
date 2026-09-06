@@ -1,3 +1,5 @@
 Script started (daily) for BBC Radio 2 - Recently Played
 Script started for BBC Radio 2 - Recently Played
 Script finished for BBC Radio 2 - Recently Played. New songs: 118, YouTube added: 0, Failed: 150
+Script started for BBC Radio 2 - Recently Played
+Script finished for BBC Radio 2 - Recently Played. New songs: 50, YouTube added: 0, Failed: 87
